@@ -1,1 +1,4 @@
-- exercícios
+## *Aulas gimp*
+
+- Atividade Banner 📜
+- Imagens 🤳🏻
